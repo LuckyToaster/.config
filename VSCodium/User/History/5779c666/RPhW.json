@@ -1,0 +1,4 @@
+{
+    "vim.neovimConfigPath": "~/.config/nvim/init.vim",
+    "vscode-neovim.neovimExecutablePaths.win32": "`"
+}

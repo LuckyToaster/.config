@@ -1,0 +1,56 @@
+2024-10-17 14:51:49.036 [info] Extension host with pid 41477 started
+2024-10-17 14:51:49.036 [info] Skipping acquiring lock for /home/lucky/.config/VSCodium/User/workspaceStorage/72acbf9bbdafb5d8dcdb14ef78460bdf.
+2024-10-17 14:51:49.156 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-17 14:51:49.168 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-10-17 14:51:49.355 [error] Error: spawn /home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-10-17 14:51:49.414 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-10-17 14:51:49.477 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-17 14:51:49.479 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-17 14:51:49.539 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-17 14:51:49.582 [info] Eager extensions activated
+2024-10-17 14:51:49.610 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-17 14:51:49.612 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-17 14:51:49.631 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-10-17 14:52:16.699 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-10-17 14:52:17.060 [error] Error: Invalid debug adapter
+    at UFt.getDebugAdapter (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:619:136)
+    at UFt.$acceptDAExit (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:619:35)
+    at Glt._doInvokeHandler (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:54192)
+    at Glt._invokeHandler (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:53934)
+    at Glt._receiveRequest (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:52699)
+    at Glt._receiveOneMessage (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:51699)
+    at MJ.value (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:49620)
+    at E._deliver (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:30:896)
+    at E.fire (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:30:1216)
+    at n5.fire (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:634:12054)
+    at l.onmessage (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3125:15631)
+2024-10-17 14:52:17.075 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-10-17 15:05:28.036 [error] [ms-python.python] provider FAILED
+2024-10-17 15:05:28.036 [error] Error: ValueError: `column` parameter (40) is not in a valid range (0-28) for line 23 ('    required_vars : set[str]\r\n').
+	at ae (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2051686)
+	at oe (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2049646)
+	at Immediate.<anonymous> (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2045940)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-17 15:06:10.159 [error] [ms-python.python] provider FAILED
+2024-10-17 15:06:10.159 [error] Error: ValueError: `column` parameter (40) is not in a valid range (0-14) for line 23 ('    ----------\r\n').
+	at ae (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2051686)
+	at oe (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2049646)
+	at Immediate.<anonymous> (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2045940)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-17 15:06:56.130 [error] [ms-python.python] provider FAILED
+2024-10-17 15:06:56.130 [error] Error: ValueError: `column` parameter (40) is not in a valid range (0-14) for line 23 ('    Attributes\r\n').
+	at ae (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2051686)
+	at oe (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2049646)
+	at Immediate.<anonymous> (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2045940)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-17 15:10:58.660 [error] [ms-python.python] provider FAILED
+2024-10-17 15:10:58.660 [error] Error: ValueError: `column` parameter (40) is not in a valid range (0-28) for line 23 ('    required_vars : set[str]\r\n').
+	at ae (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2051686)
+	at oe (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2049646)
+	at Immediate.<anonymous> (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2045940)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-17 15:11:50.972 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-17 15:11:50.980 [info] Extension host with pid 41477 exiting with code 0

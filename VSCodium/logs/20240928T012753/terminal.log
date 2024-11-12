@@ -1,0 +1,2 @@
+2024-09-28 01:27:54.891 [warning] Couldn't attach to process Could not find pty on pty host []
+2024-09-28 01:27:54.891 [warning] Attach to process failed for terminal [{"id":1,"pid":17723,"title":"bash","titleSource":1,"cwd":"","icon":{"id":"terminal-bash"},"hasChildProcesses":false,"shellIntegrationNonce":"24898986-e706-4f3b-b38d-27eeee82156c","findRevivedId":true}]

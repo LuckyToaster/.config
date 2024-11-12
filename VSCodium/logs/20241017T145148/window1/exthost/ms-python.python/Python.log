@@ -1,0 +1,9 @@
+2024-10-17 14:51:49.397 [info] Telemetry level is off
+2024-10-17 14:51:49.397 [info] Experiments are disabled, only manually opted experiments are active.
+2024-10-17 14:51:49.397 [warning] Dir "/home/lucky/Documents/classes/advanced_dbs/assignment1/.pixi/envs" is not watchable (directory does not exist)
+2024-10-17 14:51:49.397 [info] Default formatter is set to null for workspace /home/lucky/Documents/classes/advanced_dbs/assignment1
+2024-10-17 14:51:49.397 [info] Python interpreter path: /bin/python3
+2024-10-17 14:51:49.409 [info] > pyenv which python
+2024-10-17 14:51:49.409 [info] cwd: .
+2024-10-17 14:51:49.908 [info] Starting Jedi language server for assignment1.
+2024-10-17 14:52:16.784 [info] > pixi --version

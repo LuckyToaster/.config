@@ -1,0 +1,14 @@
+{
+    "vim.neovimConfigPath": "~/.config/nvim/init.vim",
+    "vscode-neovim.neovimExecutablePaths.win32": "",
+    "vscode-neovim.neovimExecutablePaths.linux": "/opt/nvim-linux64/bin/nvim",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "vscode-neovim.neovimInitVimPaths.linux": "/home/lucky/.config/nvim/init.vim",
+    "vim.neovimPath": "/opt/nvim-linux64/bin/nvim",
+    "vim.neovimUseConfigFile": true,
+    "vim.smartcase": false,
+    "vim.vimrc.enable": true,
+    "vim.vimrc.path": "$HOME/.config/nvim/init.vim"
+}

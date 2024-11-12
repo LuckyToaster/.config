@@ -1,0 +1,8 @@
+{
+    "vim.neovimConfigPath": "~/.config/nvim/init.vim",
+    "vscode-neovim.neovimExecutablePaths.win32": "",
+    "vscode-neovim.neovimExecutablePaths.linux": "/opt/nvim-linux64/bin/nvim",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    }
+}

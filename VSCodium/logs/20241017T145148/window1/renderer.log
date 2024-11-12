@@ -1,0 +1,38 @@
+2024-10-17 14:51:48.754 [info] Started local extension host with pid 41477.
+2024-10-17 14:51:49.372 [error] spawn /home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python-env-tools/bin/pet ENOENT: Error: spawn /home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-10-17 14:51:51.401 [info] [perf] Render performance baseline is 30ms
+2024-10-17 14:52:17.069 [error] Invalid debug adapter: Error: Invalid debug adapter
+    at UFt.getDebugAdapter (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:619:136)
+    at UFt.$acceptDAExit (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:619:35)
+    at Glt._doInvokeHandler (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:54192)
+    at Glt._invokeHandler (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:53934)
+    at Glt._receiveRequest (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:52699)
+    at Glt._receiveOneMessage (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:51699)
+    at MJ.value (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:49620)
+    at E._deliver (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:30:896)
+    at E.fire (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:30:1216)
+    at n5.fire (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:634:12054)
+    at l.onmessage (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3125:15631)
+2024-10-17 15:05:28.041 [error] ValueError: `column` parameter (40) is not in a valid range (0-28) for line 23 ('    required_vars : set[str]\r\n').: Error: ValueError: `column` parameter (40) is not in a valid range (0-28) for line 23 ('    required_vars : set[str]\r\n').
+	at ae (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2051686)
+	at oe (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2049646)
+	at Immediate.<anonymous> (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2045940)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-17 15:06:10.160 [error] ValueError: `column` parameter (40) is not in a valid range (0-14) for line 23 ('    ----------\r\n').: Error: ValueError: `column` parameter (40) is not in a valid range (0-14) for line 23 ('    ----------\r\n').
+	at ae (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2051686)
+	at oe (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2049646)
+	at Immediate.<anonymous> (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2045940)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-17 15:06:56.131 [error] ValueError: `column` parameter (40) is not in a valid range (0-14) for line 23 ('    Attributes\r\n').: Error: ValueError: `column` parameter (40) is not in a valid range (0-14) for line 23 ('    Attributes\r\n').
+	at ae (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2051686)
+	at oe (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2049646)
+	at Immediate.<anonymous> (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2045940)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-17 15:10:58.661 [error] ValueError: `column` parameter (40) is not in a valid range (0-28) for line 23 ('    required_vars : set[str]\r\n').: Error: ValueError: `column` parameter (40) is not in a valid range (0-28) for line 23 ('    required_vars : set[str]\r\n').
+	at ae (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2051686)
+	at oe (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2049646)
+	at Immediate.<anonymous> (/home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2045940)
+	at process.processImmediate (node:internal/timers:483:21)

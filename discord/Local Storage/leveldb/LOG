@@ -1,0 +1,9 @@
+2024/11/11-14:30:32.553 3e49 Reusing MANIFEST /home/lucky/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/11/11-14:30:32.556 3e49 Recovering log #4
+2024/11/11-14:30:32.605 3e49 Reusing old log /home/lucky/.config/discord/Local Storage/leveldb/000004.log 
+2024/11/11-14:35:40.511 3e49 Level-0 table #8: started
+2024/11/11-14:35:40.537 3e49 Level-0 table #8: 3273170 bytes OK
+2024/11/11-14:35:40.539 3e49 Delete type=0 #4
+2024/11/11-19:17:53.123 3e49 Level-0 table #10: started
+2024/11/11-19:17:53.126 3e49 Level-0 table #10: 30834 bytes OK
+2024/11/11-19:17:53.130 3e49 Delete type=0 #7

@@ -1,0 +1,13 @@
+2024-09-05 13:54:53.498 [info] Getting Manifest... vscodevim.vim
+2024-09-05 13:54:54.804 [info] Installing extension: vscodevim.vim {"productVersion":{"version":"1.92.2","date":"2024-08-15T18:27:27.910Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode-oss/extensions/extensions.json","path":"/home/lucky/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-05 13:54:55.992 [info] Extracted extension to file:///home/lucky/.vscode-oss/extensions/vscodevim.vim-1.28.0-universal: vscodevim.vim
+2024-09-05 13:54:55.994 [info] Renamed to /home/lucky/.vscode-oss/extensions/vscodevim.vim-1.28.0-universal
+2024-09-05 13:54:56.001 [info] Marked extension as uninstalled vscodevim.vim-1.27.2-universal
+2024-09-05 13:54:56.003 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/lucky/.vscode-oss/extensions/extensions.json
+2024-09-05 13:54:56.084 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lucky/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lucky/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22226)
+    at h (/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22357)
+    at S.toFileSystemProviderError (/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48043)
+    at S.stat (/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38518)
+    at async c.stat (/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19793)
+    at async q.onDidFilesChange (/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148300)

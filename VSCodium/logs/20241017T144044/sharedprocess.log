@@ -1,0 +1,25 @@
+2024-10-17 14:40:46.167 [info] Deleted uninstalled extension from disk vscodevim.vim /home/lucky/.vscode-oss/extensions/vscodevim.vim-1.28.0-universal
+2024-10-17 14:50:05.837 [info] Getting Manifest... ms-python.python
+2024-10-17 14:50:06.743 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode-oss/extensions/extensions.json","path":"/home/lucky/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-12T20:14:54.465Z"}}
+2024-10-17 14:50:06.911 [info] Getting Manifest... ms-python.debugpy
+2024-10-17 14:50:07.114 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode-oss/extensions/extensions.json","path":"/home/lucky/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-12T20:14:54.465Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-17 14:50:09.075 [info] Extracted extension to file:///home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal: ms-python.python
+2024-10-17 14:50:09.081 [info] Renamed to /home/lucky/.vscode-oss/extensions/ms-python.python-2024.16.1-universal
+2024-10-17 14:50:09.171 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lucky/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lucky/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-17 14:50:11.783 [info] Extracted extension to file:///home/lucky/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64: ms-python.debugpy
+2024-10-17 14:50:11.787 [info] Renamed to /home/lucky/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64
+2024-10-17 14:50:11.799 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/lucky/.vscode-oss/extensions/extensions.json
+2024-10-17 14:50:11.799 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/lucky/.vscode-oss/extensions/extensions.json
+2024-10-17 14:50:11.867 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lucky/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lucky/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)

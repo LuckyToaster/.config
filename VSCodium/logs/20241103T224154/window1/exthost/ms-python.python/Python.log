@@ -1,0 +1,37 @@
+2024-11-03 22:41:56.031 [info] Telemetry level is off
+2024-11-03 22:41:56.031 [info] Experiments are disabled, only manually opted experiments are active.
+2024-11-03 22:41:56.031 [warning] Dir "/home/lucky/Documents/classes/advanced_dbs/assignment1/.pixi/envs" is not watchable (directory does not exist)
+2024-11-03 22:41:56.031 [info] Default formatter is set to null for workspace /home/lucky/Documents/classes/advanced_dbs/assignment1
+2024-11-03 22:41:56.031 [info] Python interpreter path: /bin/python3
+2024-11-03 22:41:56.038 [info] > pyenv which python
+2024-11-03 22:41:56.038 [info] cwd: .
+2024-11-03 22:41:56.654 [info] Starting Jedi language server for assignment1.
+2024-11-03 22:42:29.283 [info] > conda info --json
+2024-11-03 22:43:31.075 [info] Starting Environment refresh
+2024-11-03 22:43:31.075 [info] Searching for interpreters in posix paths locator
+2024-11-03 22:43:31.076 [info] Searching for pyenv environments
+2024-11-03 22:43:31.076 [info] Searching for conda environments
+2024-11-03 22:43:31.076 [info] Searching for global virtual environments
+2024-11-03 22:43:31.076 [info] Searching for custom virtual environments
+2024-11-03 22:43:31.088 [info] > pixi --version
+2024-11-03 22:43:31.088 [info] > conda info --json
+2024-11-03 22:43:31.088 [info] > hatch env show --json
+2024-11-03 22:43:31.088 [info] cwd: .
+2024-11-03 22:43:31.093 [info] pyenv is not installed
+2024-11-03 22:43:31.093 [info] Finished searching for pyenv environments: 18 milliseconds
+2024-11-03 22:43:31.111 [info] Finished searching for custom virtual envs: 36 milliseconds
+2024-11-03 22:43:31.126 [info] Finished searching for global virtual envs: 51 milliseconds
+2024-11-03 22:43:31.167 [info] Found: /bin/python3 --> /bin/python3.11
+2024-11-03 22:43:31.169 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-11-03 22:43:31.182 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-11-03 22:43:31.182 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-11-03 22:43:31.187 [info] > /bin/python3 -I ~/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python_files/interpreterInfo.py
+2024-11-03 22:43:31.197 [info] Finished searching for interpreters in posix paths locator: 123 milliseconds
+2024-11-03 22:43:31.207 [info] > /usr/bin/python3 -I ~/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python_files/interpreterInfo.py
+2024-11-03 22:43:31.303 [info] Discover tests for workspace name: undefined - uri: /home/lucky/.config/VSCodium/User/settings.json
+2024-11-03 22:43:31.578 [info] Finished searching for conda environments: 503 milliseconds
+2024-11-03 22:43:31.583 [info] > ~/.local/miniconda3/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python_files/interpreterInfo.py
+2024-11-03 22:43:31.583 [info] Environments refresh paths discovered (event): 509 milliseconds
+2024-11-03 22:43:31.583 [info] Environments refresh paths discovered: 509 milliseconds
+2024-11-03 22:43:31.608 [info] Environments refresh finished (event): 534 milliseconds
+2024-11-03 22:43:31.612 [info] Environment refresh took 539 milliseconds

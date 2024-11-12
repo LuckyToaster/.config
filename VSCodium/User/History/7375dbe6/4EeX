@@ -1,0 +1,2 @@
+include/* read-only
+src/glad.c read-only

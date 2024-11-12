@@ -1,0 +1,5 @@
+2024/07/03-00:15:07.909 9db8 Creating DB /home/lucky/.config/discord/Local Storage/leveldb since it was missing.
+2024/07/03-00:15:07.913 9db8 Reusing MANIFEST /home/lucky/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/03-00:19:23.244 9dba Level-0 table #5: started
+2024/07/03-00:19:23.264 9dba Level-0 table #5: 3157535 bytes OK
+2024/07/03-00:19:23.266 9dba Delete type=0 #3

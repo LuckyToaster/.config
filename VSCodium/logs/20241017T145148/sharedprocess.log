@@ -1,0 +1,10 @@
+2024-10-17 14:52:00.875 [info] Uninstalling extension from the profile: vscodevim.vim@1.28.1 vscode-userdata:/home/lucky/.vscode-oss/extensions/extensions.json
+2024-10-17 14:52:00.891 [info] Marked extension as uninstalled vscodevim.vim-1.28.1-universal
+2024-10-17 14:52:00.962 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lucky/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lucky/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/codium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-17 14:52:01.604 [info] Successfully uninstalled extension from the profile vscodevim.vim@1.28.1 vscode-userdata:/home/lucky/.vscode-oss/extensions/extensions.json

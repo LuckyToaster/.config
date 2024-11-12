@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=senchymarques@hotmail.com
+Enabled=true
+Parent=9c61539548b588a5d2bc7c1b96b8a4e34b6c41c6
+
+[Authentication]
+Host=smtp.office365.com
+Method=LOGIN
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=senchymarques@hotmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false
