@@ -1,3 +1,0 @@
-#include <armadillo>
-
-struct camera

@@ -1,6 +1,0 @@
-#include <armadillo>
-
-
-struct Line {
-
-}

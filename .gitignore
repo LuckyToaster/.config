@@ -1,8 +1,0 @@
-# Ignore all directories
-*/
-
-# Un-ignore specific directories (and their contents)
-!nvim
-!kitty
-!ranger/
-!mpv/

@@ -1,5 +1,0 @@
-2024-11-09 23:25:33.994 [info] Telemetry level is off
-2024-11-09 23:25:33.994 [info] Experiments are disabled, only manually opted experiments are active.
-2024-11-09 23:25:33.994 [error] Not allowed to refresh environments in an untrusted workspace
-2024-11-09 23:25:33.997 [info] Only Pylance is supported in untrusted workspaces, setting language server to None.
-2024-11-09 23:25:33.997 [info] Starting Jedi language server for default.

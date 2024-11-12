@@ -1,2 +1,0 @@
-2024-10-17 14:40:46.309 [warning] Couldn't attach to process Could not find pty 1 on pty host []
-2024-10-17 14:40:46.309 [warning] Attach to process failed for terminal [{"id":1,"pid":444396,"title":"bash","titleSource":2,"cwd":"","icon":{"id":"terminal-bash"},"hasChildProcesses":false,"shellIntegrationNonce":"47d9aeab-a498-48b7-88f2-e83d94b33a59","findRevivedId":true}]
