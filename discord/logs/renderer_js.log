@@ -301,3 +301,37 @@ Possible causes: the network is offline, Origin is not allowed by Access-Control
 [2024-11-12 09:15:59.150] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=3' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
 [2024-11-12 09:15:59.294] [error] Uncaught (in promise) Error: Request has been terminated
 Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-12 09:37:20.139] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-12 09:37:22.205] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-12 09:37:22.244] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-12 09:37:22.245] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-12 09:37:22.370] [info]  [FAST CONNECT] connected in 164ms
+[2024-11-12 09:37:22.782] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-12 09:37:22.883] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 342968, Version Hash: f8fde36fe736c489dc1460a37e819a7ac34c7a63
+[2024-11-12 09:37:22.934] [info]  [default] [NATIVE INFO] host 0.0.73, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-12 09:37:23.643] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-12 09:37:23.650] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-12 09:37:23.666] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-12 09:37:23.679] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-12 09:37:23.736] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-12 09:37:23.737] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-12 09:37:24.021] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-12 09:37:24.076] [warn]  [DEPRECATED] Please use `subscribeWithSelector` middleware
+[2024-11-12 09:37:24.120] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-12 09:37:24.120] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-12 09:37:24.120] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 0 ms
+[2024-11-12 09:37:24.142] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-12 09:37:24.145] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-12 09:37:24.560] [info]  [GatewaySocket] [READY] took 441ms, as 660c66926b1a66817387830d70fa0368
+[2024-11-12 09:37:24.566] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-12 09:37:24.571] [info]  [DatabaseManager] removing database (user: 1161407499556106351, database: undefined)
+[2024-11-12 09:37:24.572] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-12 09:37:24.580] [info]  [MessageActionCreators] Fetching messages for 427518168995725317 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-12 09:37:24.585] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 465ms
+[2024-11-12 09:37:24.658] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-12 09:37:24.727] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-12 09:37:24.790] [info]  [MessageActionCreators] Fetched 50 messages for 427518168995725317 isBefore:false isAfter:false
+[2024-11-12 09:37:24.795] [info]  [ChannelMessages] loadComplete: resetting state for channelId=427518168995725317, sending.length=0
+[2024-11-12 09:37:26.769] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=7' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-12 09:37:26.784] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.

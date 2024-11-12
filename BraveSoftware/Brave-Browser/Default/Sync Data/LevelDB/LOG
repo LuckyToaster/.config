@@ -1,3 +1,15 @@
 2024/11/12-09:23:50.141 10da Reusing MANIFEST /home/lucky/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
 2024/11/12-09:23:50.142 10da Recovering log #608
 2024/11/12-09:23:50.143 10da Reusing old log /home/lucky/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000608.log 
+2024/11/12-09:43:43.607 10e6 Level-0 table #612: started
+2024/11/12-09:43:43.611 10e6 Level-0 table #612: 54434 bytes OK
+2024/11/12-09:43:43.613 10e6 Delete type=0 #608
+2024/11/12-09:43:43.613 10e6 Compacting 4@0 + 1@1 files
+2024/11/12-09:43:43.716 10e6 Generated table #613@0: 152 keys, 19906 bytes
+2024/11/12-09:43:43.716 10e6 Compacted 4@0 + 1@1 files => 19906 bytes
+2024/11/12-09:43:43.769 10e6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/12-09:43:43.770 10e6 Delete type=2 #607
+2024/11/12-09:43:43.770 10e6 Delete type=2 #612
+2024/11/12-09:43:43.770 10e6 Delete type=2 #605
+2024/11/12-09:43:43.770 10e6 Delete type=2 #602
+2024/11/12-09:43:43.770 10e6 Delete type=2 #609

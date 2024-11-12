@@ -1,5 +1,6 @@
 {
   "chromiumSwitches": {},
   "IS_MAXIMIZED": true,
-  "IS_MINIMIZED": false
+  "IS_MINIMIZED": false,
+  "OPEN_ON_STARTUP": false
 }
